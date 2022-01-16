@@ -1,0 +1,6 @@
+
+radius = eval(input("Please enter radius of a circle: "))
+area = radius * radius * 3.142
+print("The area is: ", area)
+print("Thank you for using the program")
+print("Goodbye")
